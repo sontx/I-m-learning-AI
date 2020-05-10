@@ -1,0 +1,16 @@
+Dự đoán giá ngôi nhà Y thông qua các feature X 
+---------------------------------------------------------------------------------
+Features:
+
+X1 transaction date: Ngày giao dịch
+X2 house age: Tuổi thọ của ngôi nhà
+X3 distance to the nearest MRT station: Khoảng cách đến ga gần nhất
+X4 number of convenience store: Số lượng cửa hàng tiện dụng gần đó
+X5 latitide: Vĩ độ
+X6 longitude: Kinh độ
+
+---------------------------------------------------------------------------------
+Labels:
+
+Y house price of unit area: Giá ngôi nhà
+

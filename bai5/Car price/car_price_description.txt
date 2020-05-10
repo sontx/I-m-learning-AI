@@ -1,0 +1,19 @@
+﻿
+Bài toán này là bài toán dự đoán giá xe gốc mà người bán muốn bán
+----------------------------------------------------------------------------------------------
+Features:
+
+Car_name: Tên xe
+Year: Năm mà xe được bán
+Fuel_type: Loại nhiên liệu sử dụng
+Present_Price: Giá hiển thị trong phòng trưng bày xe ô tô
+Seller_type: Xác định người bán là đại lý(dealer) hay là tự nhân(individual)
+Transmission: Xác định liệu chiếc xe đó là xe số sàn(Là loại xe hơi mà người lái phải trực tiếp điều khiển cần số bằng tay) hay xe số tự động(Cái này phải am hiểu về xe ô tô, nên chúng ta cu
+không cần quan tâm, chỉ biết đây là hình thức điều khiển xe như thế nào)
+Owner: Xác định số lượng người đã sỡ hữu xe trước đây
+Kms_Driven: Số km đã đi
+
+-----------------------------------------------------------------------------------------------
+Labels:
+
+Selling_Price: Giá xe mà người bán muốn bán
