@@ -1,0 +1,23 @@
+Dự đoán lương của một người >= 50k hoặc < 50k dựa vào các thông tin sau:
+
+features
+----------------------------------------------------------------------------
+age: tuổi
+fnlwgt: là final weight. Đây chính là số lượng người mà những người điều tra dân số tin rằng giá nó đại diên cho toàn bộ
+workclass: Tâng lớp lao động
+education: trình độ học vấn
+education.num: trình độ học vấn nhưng được mã hóa dưới dạng số
+martial.num: tình trạng hôn nhân
+occupation: Nghề nghiệp
+relationship: Chức vụ hay mối quan hệ trong gia đình
+race: chủng tộc (ví dụ: da trắng, da đen...)
+sex: giới tính
+capital.gain: Độ chênh lệch giữa giá mua và giá bán (tiền lời)
+capital.loss: Tiền lỗ
+hour.per.week: Thời gian làm việc trên tuần
+native.country: nơi ở
+
+
+label
+----------------------------------------------------------------------------
+income: Thu nhập
