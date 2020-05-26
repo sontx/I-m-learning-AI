@@ -1,0 +1,15 @@
+Dự đoán người còn sống sót hay không trong vụ đắm tàu titanic
+-------------------------------------------------------------
+Label: Survived: 1-> Có, 0-> Không
+-------------------------------------------------------------
+Features:
+PClass: Địa vị xã hội
+Name: Tên hành khách
+Sex: Giới tính
+Age: Tuổi
+SibSp: Số người có quan hệ anh em vợ chồng
+Parch: Số người có quan hệ cha con, mẹ con
+Ticket: Số vé
+Fare: Giá vé
+Cabin: Số cabin
+Embarked: Địa điểm khởi hành
