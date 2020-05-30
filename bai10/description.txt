@@ -1,0 +1,31 @@
+https://medium.com/@zxr.nju/what-is-the-kernel-trick-why-is-it-important-98a98db0961d
+https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
+
+
+
+
+Bài toán phân loại giá của điện thoại với 4 mức (0, 1, 2, 3)
+---------------------------------------------------------------------------------------
+Label: price_range, 4 mức, 0, 1, 2, 3
+---------------------------------------------------------------------------------------
+Features:
+battery_power: Tổng năng lượng mà pin có thể lưu trữ (Đơn vị: mAh)
+blue: Có bluetooth hay không
+clock_speed: Tốc độc vi xử lý
+dual_sim: Có hỗ trợ 2 sim hay không
+fc: Độ phân giải camera trước (bao nhiêu chấm)(megapixel)
+four_g: Có hỗ trợ 4G hay không
+int_memory: Bộ nhớ trong(đơn vị: Gigabytes)
+m_dep: Độ dày (đơn vị cm)
+mobile_wt: Cân nặng
+n_cores: Số lượng core xử lý
+pc: Độ phân giải camera sau (bao nhiêu chấm)(magapixel)
+px_height: Độ phân giải màn hình theo chiều cao (pixel)
+px_width: Độ phân giải màn hình theo chiều rộng (pixel)
+ram: Dung lượng ram (Mega bytes)
+sc_h: Chiều cao màn hình (cm)
+sc_w: Chiều rộng màn hình (cm)
+talk_time: thời gian lâu nhất mà một lần sạc pin sẽ kéo dài
+three_g: Có 3g hay không
+touch_screen: Có cảm ứng hay không
+wifi: Có wifi hay không
