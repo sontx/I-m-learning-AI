@@ -1,0 +1,12 @@
+Bài toán dự đoán một người bị tiểu đường hay không
+------------------------------------------------------------------------------------------------------------------------------------------------
+Pregnacies: Số lần mang thai
+Glucose: Nồng độ glucozer trong máu
+BloodPressure: Áp lực máu
+SkinThickness: Độ dày của da
+Insulin: Nồng độ insulin
+BMI: Tỷ lệ cân nặng trên chiều cao, được tính bằng cách chia trọng lượng của một người tính bằng kilogram cho bình phương chiều cao tính bằng mét
+DiabetesPedigreeFunction: Chỉ số đánh giá khả năng mắc bệnh tiểu đường dựa vào phả hệ gia đình
+Age: Tuổi
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Outcome: Bị bệnh hay không (0 không bị bênh, 1 bị bệnh)
